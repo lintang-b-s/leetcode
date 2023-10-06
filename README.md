@@ -18,3 +18,6 @@ Topic:
 problemlist:
 1. https://neetcode.io/roadmap
 2. https://algo.monster/problems/dynamic_programming_intro
+3. https://leetcode.com/explore/interview/card/top-interview-questions-medium/
+5. https://leetcode.com/explore/interview/card/top-interview-questions-easy/
+6. https://leetcode.com/explore/interview/card/top-interview-questions-hard/
