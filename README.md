@@ -14,3 +14,7 @@ Topic:
 10. Greedy
 11. Dynamic Programming
 12. Graph
+
+problemlist:
+1. https://neetcode.io/roadmap
+2. https://algo.monster/problems/dynamic_programming_intro
