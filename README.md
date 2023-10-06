@@ -21,3 +21,6 @@ problemlist:
 3. https://leetcode.com/explore/interview/card/top-interview-questions-medium/
 5. https://leetcode.com/explore/interview/card/top-interview-questions-easy/
 6. https://leetcode.com/explore/interview/card/top-interview-questions-hard/
+
+resource:
+https://leetcode.com/explore/interview/card/cheatsheets/720/resources/4723/
