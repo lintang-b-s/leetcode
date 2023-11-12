@@ -5,7 +5,8 @@ resource remove duplicate: https://www.geeksforgeeks.org/remove-duplicates-sorte
 
 intuisi: 
 - bisa pakai max-heap/priorityQueue, 
- - buat priority queue max-heap.
+ - buat priority queue max-heap dari array nums
+ - pop k kali untuk mendapatkan k th largest
  - 
 */
 
