@@ -1,5 +1,5 @@
 # leetcode-solution
-Follow my leetcode acc: https://leetcode.com/lintang-b-s/
+ https://leetcode.com/lintang-b-s/
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 Topic:
 1. Time and Space Complexity
