@@ -17,10 +17,19 @@ Topic:
 
 problemlist:
 1. https://neetcode.io/roadmap
-2. https://algo.monster/problems/dynamic_programming_intro
+2. [https://algo.monster/problems/dynamic_programming_intro](https://algo.monster/problems/dp-list)
 3. https://leetcode.com/explore/interview/card/top-interview-questions-medium/
 5. https://leetcode.com/explore/interview/card/top-interview-questions-easy/
 6. https://leetcode.com/explore/interview/card/top-interview-questions-hard/
+7. https://leetcode.com/discuss/study-guide/1612475/Compilation-or-Leetcode-ListsandResources-or-Study-Guide-or-Topic-wise-or-Difficulty-wise
+8. [https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns](https://leetcode.com/discuss/study-guide/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions)https://leetcode.com/discuss/study-guide/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions
+9. https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
+10. https://leetcode.com/discuss/study-guide/448285/List-of-questions-sorted-by-common-patterns.
+11. https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days.
+12. https://leetcode.com/discuss/study-guide/2001789/Collections-of-Important-String-questions-Pattern
+13. https://leetcode.com/discuss/study-guide/1337373/Tree-question-pattern-oror2021-placement
+14. https://leetcode.com/discuss/study-guide/3722472/Sliding-Window-Technique%3A-A-Comprehensive-Guide
+15. 
 
 resource:
-https://leetcode.com/explore/interview/card/cheatsheets/720/resources/4723/
+[https://leetcode.com/explore/interview/card/cheatsheets/720/resources/4723/](https://algo.monster/problems/stats)https://algo.monster/problems/stats
