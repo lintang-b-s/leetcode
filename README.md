@@ -32,4 +32,4 @@ problemlist:
 15. 
 
 resource:
-[https://leetcode.com/explore/interview/card/cheatsheets/720/resources/4723/](https://algo.monster/problems/stats)https://algo.monster/problems/stats
+(https://algo.monster/problems/stats)https://algo.monster/problems/stats
