@@ -1,7 +1,8 @@
 # leetcode-progress
 account: https://leetcode.com/lintang-b-s/
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
-Topic:
+.Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+___
+## Topic:
 1. Time and Space Complexity
 2. Arrays
 3. String
@@ -14,8 +15,14 @@ Topic:
 10. Greedy
 11. Dynamic Programming
 12. Graph
+ 
+___
+\
+my notebook: https://1drv.ms/u/s!AjydC1xTTXtndgISZV4RA6jiwj8
 
-problemlist:
+___
+
+## problemlist:
 1. https://neetcode.io/roadmap
 2. [https://algo.monster/problems/dynamic_programming_intro](https://algo.monster/problems/dp-list)
 3. https://leetcode.com/explore/interview/card/top-interview-questions-medium/
@@ -29,7 +36,10 @@ problemlist:
 12. https://leetcode.com/discuss/study-guide/2001789/Collections-of-Important-String-questions-Pattern
 13. https://leetcode.com/discuss/study-guide/1337373/Tree-question-pattern-oror2021-placement
 14. https://leetcode.com/discuss/study-guide/3722472/Sliding-Window-Technique%3A-A-Comprehensive-Guide
-15. 
 
+
+
+___
+\
 resource:
 (https://algo.monster/problems/stats)https://algo.monster/problems/stats
