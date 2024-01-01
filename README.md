@@ -16,9 +16,6 @@ ___
 11. Dynamic Programming
 12. Graph
  
-___
-\
-my notebook: https://1drv.ms/u/s!AjydC1xTTXtndgISZV4RA6jiwj8
 
 ___
 
