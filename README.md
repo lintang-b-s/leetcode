@@ -20,9 +20,10 @@ ___
 ___
 
 ## problemlist:
-1. https://neetcode.io/roadmap
-2. [https://algo.monster/problems/dynamic_programming_intro](https://algo.monster/problems/dp-list)
-3. https://leetcode.com/explore/interview/card/top-interview-questions-medium/
+1. https://www.hackerrank.com/interview/interview-preparation-kit
+2. https://neetcode.io/roadmap
+3. [https://algo.monster/problems/dynamic_programming_intro](https://algo.monster/problems/dp-list)
+4. https://leetcode.com/explore/interview/card/top-interview-questions-medium/
 5. https://leetcode.com/explore/interview/card/top-interview-questions-easy/
 6. https://leetcode.com/explore/interview/card/top-interview-questions-hard/
 7. https://leetcode.com/discuss/study-guide/1612475/Compilation-or-Leetcode-ListsandResources-or-Study-Guide-or-Topic-wise-or-Difficulty-wise
